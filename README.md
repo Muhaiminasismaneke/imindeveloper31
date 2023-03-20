@@ -1,6 +1,5 @@
 # halo saudara, saya Muhaimin - alias [imindeveloper31](https://www.youtube.com/@junior-code) 👋
 ## Tentang saya:
-- 🔭 Saat ini saya bekerja di [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
 - 🌱 Saat ini saya sedang belajar Reactjs, Talwindcss,Javascript
 - 🤔 Saya mencari saran untuk FrontendDev dan DesignGrafis
 - 💬 Tanyakan kepada saya tentang apa saja saya akan jawab sepengetahuan saya
