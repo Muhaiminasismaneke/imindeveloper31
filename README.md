@@ -1,6 +1,6 @@
 # halo saudara, saya Muhaimin - alias [imindeveloper31](https://www.youtube.com/@junior-code) 👋
 ## Tentang saya:
-- 🌱 Saat ini saya sedang belajar Reactjs, Talwindcss,Javascript
+- 🌱 Saat ini saya sedang belajar Javascript, Reactjs, Python, nodejs, Git, Bootstrap
 - 🤔 Saya mencari saran untuk FrontendDev dan DesignGrafis
 - 💬 Tanyakan kepada saya tentang apa saja saya akan jawab sepengetahuan saya
 - 📫 Cara menghubungi saya: duniarumaharipark12@gmail.com
