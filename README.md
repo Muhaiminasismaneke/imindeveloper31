@@ -30,9 +30,9 @@
 ### Terhubung dengan saya:
 
 &nbsp;&nbsp;
-[![website](./github-light.svg)](github.com/imindeveloper31/imindeveloper31)
+[![GitHub](./github-light.svg)](https://github.com/imindeveloper31)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://www.instagram.com/rubyskuyyy/)
+[![Instagram](./instagram-light.svg)](https://www.instagram.com/rubyskuyyy/)
 
 
 
