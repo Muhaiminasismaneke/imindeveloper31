@@ -8,8 +8,7 @@
 ## Pendidikan:
 
 #### 1. [Universitas Muhammadiyah Maluku Utara](https://admisi.ummu.ac.id) Mahasiswa Baru | Kota Ternate(Maluku Utara) `Angkatan-2022`
-   - Semester 2
-   - Anggota HMTI(Himpunan Mahasiswa Teknik Informatika)
+  
  #### 2. [SMA N 2 Kota Ternate](https://www.sman2ternate.sch.id) | IPS | Kota Ternate Selatan `2017-2020`
  
 
