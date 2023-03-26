@@ -3,7 +3,7 @@
 - 🌱 Saat ini saya sedang belajar frontend Developer 
 - 🤔 Saya mencari saran untuk FrontendDev dan DesignGrafis
 
-## Pendidikan:
+## Pendidikan
 
 #### 1. [Universitas Muhammadiyah Maluku Utara](https://admisi.ummu.ac.id) Mahasiswa Baru | Kota Ternate(Maluku Utara) `Angkatan-2022`
   
@@ -15,9 +15,6 @@
 
 ---
 ### Terhubung dengan saya:
-
-&nbsp;&nbsp;
-[![GitHub](./github-light.svg)](https://github.com/imindeveloper31)
 &nbsp;&nbsp;
 [![Instagram](./instagram-light.svg)](https://www.instagram.com/rubyskuyyy/)
 
