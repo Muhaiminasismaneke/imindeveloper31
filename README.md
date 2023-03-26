@@ -2,8 +2,6 @@
 ## Tentang saya:
 - 🌱 Saat ini saya sedang belajar frontend Developer 
 - 🤔 Saya mencari saran untuk FrontendDev dan DesignGrafis
-- 💬 Tanyakan kepada saya tentang apa saja saya akan jawab sepengetahuan saya
-- 📫 Cara menghubungi saya: duniarumaharipark12@gmail.com
 
 ## Pendidikan:
 
