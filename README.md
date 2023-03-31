@@ -1,7 +1,6 @@
 # halo saudara, saya Muhaimin - alias [imindeveloper31](https://www.youtube.com/@junior-code) 👋
 ## Tentang saya:
 - 🌱 Saat ini saya sedang belajar frontend Developer 
-- 🤔 Saya mencari saran untuk FrontendDev dan DesignGrafis
 
 ## Pendidikan
 
@@ -14,9 +13,6 @@
 <br />
 
 ---
-### Terhubung dengan saya:
-&nbsp;&nbsp;
-[![Instagram](./instagram-light.svg)](https://www.instagram.com/rubyskuyyy/)
 
 
 
